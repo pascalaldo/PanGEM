@@ -1,0 +1,12 @@
+data/
+.git/
+.examples/
+.test/
+resources/
+config/
+*.pyc
+*.cache
+*.ipynb
+*.log
+logs/
+nohup.out
